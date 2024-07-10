@@ -1,2 +1,3 @@
-ble/build
-mqtt/build
+ble-server/build
+mqtt-client/build
+ble-scanner/build
